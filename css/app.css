@@ -17,3 +17,11 @@ p {
   margin: 20px;
   padding: 20px;
 }
+img {
+  width: 100%;
+  width:128px;
+  height:128px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px white   
+  
+}
